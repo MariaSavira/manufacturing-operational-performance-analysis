@@ -1,0 +1,7 @@
+id,machine_code,line_name,ideal_rate_per_min,wear_multiplier
+1,PR-23,Stamping,51.9,0.6
+2,PR-55,Packing,58.9,0.8
+3,PR-95,Stamping,58.6,1.0
+4,PR-66,Stamping,72.3,1.2
+5,PR-13,Assembly,49.7,1.4
+6,PR-57,Stamping,42.0,1.6
